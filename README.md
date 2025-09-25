@@ -11,7 +11,7 @@
 
 <!-- MasterHead -->
 <a href="https://github.com/kaykykrg">
-  <img src="github.gif" alt="Pixel Zelda GIF" style="width:auto; height:auto"/>
+  <img align="right" alt="My gif" height="600px" src="https://imgur.com/gallery/zeldagif-egBl8WN#kb2ZrBd.gif" />
 </a>
 
 <!-- Greeting -->
