@@ -86,15 +86,6 @@
 
 ---
 
-<h3 align="center">Support Me 💰</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/kaykykruger">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="buymeacoffee" />
-  </a>
-</p>
-
----
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+you+for+stopping+by!+👋" />
 </h1>
