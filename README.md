@@ -11,7 +11,7 @@
 
 <!-- MasterHead -->
 <a href="https://github.com/kaykykrg">
-  <img align="right" alt="My gif" height="600px" src="https://imgur.com/gallery/zeldagif-egBl8WN#kb2ZrBd.gif" />
+  <img align="right" alt="My gif" height="600px" src="github1.gif" />
 </a>
 
 <!-- Greeting -->
