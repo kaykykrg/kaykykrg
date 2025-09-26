@@ -9,11 +9,6 @@
   <br>
 -->
 
-<!-- MasterHead -->
-<a href="https://github.com/kaykykrg">
-  <img align="right" alt="My gif" height="400px" src="github1.gif" />
-</a>
-
 <!-- Greeting -->
 <h2 align="center">❂ Hi! I am Kayky Quesada Kruger</h2>
 
@@ -89,3 +84,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+you+for+stopping+by!+👋" />
 </h1>
+
+<a href="https://github.com/kaykykrg">
+  <img align="right" alt="My gif" height="600px" src="github1.gif" />
+</a>
