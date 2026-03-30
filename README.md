@@ -58,10 +58,9 @@
 
 <h3 align="center">🌱 Github Stats</h3>
 <div align="center">
-  <img width="398" src="https://github-readme-stats.vercel.app/api?username=kaykykrg&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/> 
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=kaykykrg&theme=nord&hide_border=false" alt="GitHub Streak Stats"><br/>
+  <img width="398" src="https://github-readme-stats.vercel.app/api?username=kaykykrg&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8&v=1"/> 
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=kaykykrg&theme=nord&hide_border=false&v=1" alt="GitHub Streak Stats"><br/>
 </div>
-
 ---
 
 <h3 align="center">📚 Languages & Tools</h3>
