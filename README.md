@@ -58,7 +58,7 @@
 
 <h3 align="center">🌱 Github Stats</h3>
 <div align="center">
-  <img width="398" src="https://my-github-stats-frlb-kaykykrgs-projects.vercel.app/api?username=kaykykrg&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/> 
+  <img width="398" src="https://my-github-stats-teal.vercel.app/api?username=kaykykrg&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/> 
   <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=kaykykrg&theme=nord&hide_border=false" alt="GitHub Streak Stats"><br/>
 </div>
 
