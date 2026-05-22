@@ -107,7 +107,7 @@ Aplicacao web completa para gestao de pedidos, carrinho e administracao de carda
 - Dockerfile multi-stage para imagens Spring Boot otimizadas
 - Troubleshooting em nuvem: CORS, roteamento e variaveis de ambiente em producao
 - Redirecionamento dinamico para WhatsApp + comunicacao assincrona React e Spring Boot
-
+- link: https://cozinhamariola.vercel.app/ (provalmente ele estará fechado, pois não estará em horario de atendimento)
 ---
 
 ### Projetos Academicos
