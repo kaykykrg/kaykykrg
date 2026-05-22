@@ -19,7 +19,6 @@
 
 <img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### Sobre mim
 
 ```yaml
 name:       Kayky Quesada Kruger
