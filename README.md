@@ -22,7 +22,7 @@
 
 ```yaml
 name:       Kayky Quesada Kruger
-role:       Full-Stack Developer (buscando estagio)
+role:       Back-End Developer (buscando estagio)
 location:   Curitiba, Parana - Brasil
 education:  Engenharia de Software @ PUCPR
             3o Periodo | Previsao: Mar/2029
