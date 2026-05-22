@@ -1,90 +1,156 @@
-<!--
 <div align="center">
-  <a href="#">
-    <img 
-      width="100%" 
-      src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
-    />
-  </a>
-  <br>
--->
 
-<!-- Greeting -->
-<h2 align="center">❂ Hi! I am Kayky Quesada Kruger</h2>
+```
+╔═══════════════════════════════════════════════════════════╗
+║   K A Y K Y   Q U E S A D A   K R U G E R                ║
+║   Full-Stack Developer  ·  Software Engineering @ PUCPR   ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
-<h4 align="left">
-🌟 Software Engineering undergraduate at PUCPR (2nd semester - expected graduation: Dec/2028).  
-🎯 Seeking an internship in Software Engineering, improving my skills in programming, databases, and frameworks.  
-💡 Communicative, empathetic, and creative profile, with experience in the Army, developing discipline, resilience, and focus under pressure.  
-🎨 Passionate about technology, innovation, and paper-cutting art, which enhance my attention to detail and creativity.  
-</h4>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Java+%2B+Spring+Boot+%2B+React+%2B+PostgreSQL;Docker+%7C+JWT+%7C+REST+APIs+%7C+CI%2FCD;Building+things+that+actually+ship+to+production+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<div align="center">
-<!-- Profile Views -->
-<a href="https://github.com/kaykykrg" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=kaykykrg&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" 
-       alt="Profile Views Badge" /></a>
+<a href="mailto:kaykykruger234@gmail.com"><img src="https://img.shields.io/badge/Gmail-kaykykruger234-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kaykykruger/"><img src="https://img.shields.io/badge/LinkedIn-kaykykruger-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/kaykykrg"><img src="https://img.shields.io/badge/GitHub-kaykykrg-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=kaykykrg&label=Profile+Views&color=FFA500&style=for-the-badge"/>
 
-<!-- Followers -->
-<a href="https://github.com/kaykykrg?tab=followers" target="_blank">
-  <img alt="Followers" title="Follow me on GitHub"
-       src="https://img.shields.io/github/followers/kaykykrg?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
-</a>
 </div>
 
 ---
 
-<h3 align="left">💫 About Me</h3>
-<h4>
- 🌱 Currently developing my skills in Python, Java/Kotlin, HTML & CSS.  
- 🔭 Experienced with SQL, Git/GitHub, database modeling, and IT support.  
- ⚡ Interested in Backend, Web Development, AI/ML, and Automation.  
- ✨ Always looking for innovation, practical solutions, and fast learning.  
-</h4>
+## `$ whoami`
+
+```yaml
+name:       Kayky Quesada Kruger
+role:       Full-Stack Developer (seeking internship)
+location:   Curitiba, Paraná — Brasil
+education:  Software Engineering @ PUCPR (3rd semester · exp. Mar/2029)
+focus:      Backend-heavy Full-Stack · RESTful APIs · Cloud Deploy
+languages:  PT 🇧🇷 (native) · EN 🇺🇸 (intermediate) · ES 🇪🇸 (basic)
+```
+
+Proactive Software Engineering student with **real production experience** in Full-Stack web development. I've shipped a complete ordering system to the web — from JWT auth to Docker multi-stage builds, from Supabase on the backend to Vercel on the frontend. I work well in cross-functional teams, have an agile mindset (Scrum), and love solving hard problems close to the metal.
 
 ---
 
-<h3>🧲 Connect with me :</h3>
-<a href="mailto:kaykykruger123@gmail.com">
-  <img width="60px" src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960" alt="Gmail" /></a> 
-  
-<a href="https://www.linkedin.com/in/kaykykruger/" target="_blank">
-  <img width="60px" src="https://cdn-icons-png.freepik.com/256/2496/2496097.png" alt="LinkedIn" /></a> 
+## `$ cat skills.json`
 
-<a href="https://github.com/kaykykrg" target="_blank">
-  <img width="60px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" /></a> 
+### ⚙️ Backend & APIs
+![Java](https://skillicons.dev/icons?i=java)
+![Spring](https://skillicons.dev/icons?i=spring)
+![Python](https://skillicons.dev/icons?i=python)
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
+
+`Java 21` · `Spring Boot 3` · `Spring Security` · `JWT Auth` · `REST APIs` · `MVC Architecture` · `JPA/Hibernate` · `Kotlin`
+
+### 🎨 Frontend
+![React](https://skillicons.dev/icons?i=react)
+![Vite](https://skillicons.dev/icons?i=vite)
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+
+`React 19` · `Vite` · `JavaScript ES6+` · `Tailwind CSS` · `React Router DOM` · `Responsive Design`
+
+### 🗄️ Databases
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+`PostgreSQL (Supabase)` · `H2 (in-memory)` · `Relational Modeling` · `SQL`
+
+### 🚀 DevOps & Cloud
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Linux](https://skillicons.dev/icons?i=linux)
+
+`Docker` · `Multi-stage Dockerfile` · `Render` · `Vercel` · `CI/CD` · `Git / GitHub` · `CORS & env troubleshooting`
+
+### 🛠️ Tools & Methodologies
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Figma](https://skillicons.dev/icons?i=figma)
+![Notion](https://skillicons.dev/icons?i=notion)
+
+`Scrum / Agile` · `Jira` · `GitHub Projects` · `SDD + AI-assisted dev` · `Technical documentation`
 
 ---
 
-<h3 align="center">🌱 Github Stats</h3>
+## `$ ls ./projects`
+
+### 🍽️ Cozinha Mariola — Full-Stack Order System *(in production · 2025)*
+
+> A complete web ordering system with cart, admin panel, and real-time menu management — currently live.
+
+| Layer | Stack |
+|-------|-------|
+| **Backend** | Java 21, Spring Boot 3, Spring Security, JWT |
+| **Frontend** | React 19, Vite, Tailwind CSS |
+| **Database** | PostgreSQL via Supabase |
+| **DevOps** | Docker (multi-stage), Render + Vercel |
+
+**Highlights:**
+- 🔐 JWT authentication protecting the admin CRUD panel
+- 🐳 Multi-stage Dockerfile for lean Spring Boot images
+- 🔗 Dynamic WhatsApp redirect + async React ↔ Spring Boot API
+- ☁️ Cloud troubleshooting: CORS, routing, env vars across Render & Vercel
+
+---
+
+### 🐾 SPINERS — Pet Care App *(Academic · Scrum)*
+Multidisciplinary team project using Scrum methodology — sprints, backlog grooming, retrospectives, and full project documentation.
+
+### 📄 Iagre.io — NFe Platform Web Design *(Startup Challenge)*
+Requirements gathering across tech, design, and business teams in a startup environment; agile delivery tracking.
+
+---
+
+## `$ cat experience.log`
+
+```
+[Mar/2024 – Nov/2024]  🎖  Brazilian Army — IT Assistant
+                            Hardware/software maintenance, network support,
+                            SLA-driven ticket management, requirements documentation.
+
+[Nov/2024 – Jan/2025]  🍽  SAKADA Restaurant — Cashier
+                            Customer service, stock management, operational KPIs.
+
+[2025]                 👨‍🏫  PUCPR — Algorithm Reasoning Teaching Assistant
+                            Student support, didactic material creation, academic mentoring.
+
+[2025]                 🎓  PUCPR — Student Academic Center (CASE)
+                            Student representation and organizational initiatives.
+```
+
+---
+
+## `$ git stats`
+
 <div align="center">
-  <img width="398" src="https://my-github-stats-frlb.vercel.app/api?username=kaykykrg&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/> 
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=kaykykrg&theme=nord&hide_border=false" alt="GitHub Streak Stats"><br/>
+
+<img width="398" src="https://my-github-stats-frlb.vercel.app/api?username=kaykykrg&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=8"/>
+<img width="420" src="https://nirzak-streak-stats.vercel.app/?user=kaykykrg&theme=tokyonight&hide_border=false"/>
+
 </div>
 
 ---
 
-<h3 align="center">📚 Languages & Tools</h3>
+## `$ cat certifications.txt`
+
+- 🔐 **Cybersecurity Fundamentals** — Coursera
+- ⚡ **Backend Development with Kotlin** (52h) — DIO
+
+---
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,html,css,mysql,git,github,django,vscode" /><br>
-  <img src="https://skillicons.dev/icons?i=figma,notion,linux,windows" />
+
+```
+// open to internship opportunities in Full-Stack or Backend
+// let's build something together 🚀
+```
+
+[![LinkedIn](https://img.shields.io/badge/Reach+out-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaykykruger/)
+[![Email](https://img.shields.io/badge/Send+email-Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:kaykykruger234@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=80&section=footer" width="100%"/>
+
 </div>
-
----
-
-<h3 align="center">⭐️ Experiences</h3>
-
-- 🎖 **Brazilian Army** (2024–2025) — IT Assistant: hardware/software maintenance, networks, and technical support.  
-- 🍽 **Sakada Restaurant** (2024–2025) — Cashier: customer service and stock management.  
-- 👨‍🏫 **PUCPR** (2025) — Algorithm Reasoning Teaching Assistant: helped colleagues improve their logical thinking.  
-- 💡 **Academic Projects**: Group SPINERS (pet care app) and Iagre.io Challenge (website design for electronic invoices).  
-
----
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+you+for+stopping+by!+👋" />
-</h1>
-
-<a href="https://github.com/kaykykrg">
-  <img align="right" alt="My gif" height="600px" src="github1.gif" />
-</a>
