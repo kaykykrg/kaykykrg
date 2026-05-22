@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&width=650&lines=Java+21+%2B+Spring+Boot+3+%2B+React+19;Docker+%7C+JWT+%7C+REST+APIs+%7C+PostgreSQL;Render+%2B+Vercel+%7C+CI%2FCD+%7C+Scrum;Building+things+that+actually+ship+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&width=650&lines=Java+21+%2B+Spring+Boot+3+%2B+React+19;Docker+%7C+JWT+%7C+REST+APIs+%7C+PostgreSQL;Render+%2B+Vercel+%7C+CI%2FCD+%7C+Scrum;Solve+complex+problems+with+smart+solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
