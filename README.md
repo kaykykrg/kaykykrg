@@ -1,164 +1,147 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Kayky%20Quesada%20Kruger&fontSize=42&fontColor=E0AAFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%40%20PUCPR&descAlignY=60&descColor=C77DFF" width="100%"/>
+<img src="./assets/github-header.svg" width="100%" alt="Kayky Kruger — Desenvolvedor Full Stack. Resolvendo problemas com soluções inteligentes." />
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A3482C?style=for-the-badge)](https://www.linkedin.com/in/kaykykruger/)
+[![E-mail](https://img.shields.io/badge/E--mail-416B66?style=for-the-badge&logo=gmail&logoColor=F5F0E5)](mailto:kaykykruger234@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-2A4343?style=for-the-badge&logo=github&logoColor=F5F0E5)](https://github.com/kaykykrg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&width=650&lines=Java+21+%2B+Spring+Boot+3+%2B+React+19;Docker+%7C+JWT+%7C+REST+APIs+%7C+PostgreSQL;Render+%2B+Vercel+%7C+CI%2FCD+%7C+Scrum;Solve+complex+problems+with+smart+solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br/>
-
-[![Gmail](https://img.shields.io/badge/Gmail-kaykykruger234-E0AAFF?style=for-the-badge&logo=gmail&logoColor=3C096C&labelColor=240046)](mailto:kaykykruger234@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kaykykruger-C77DFF?style=for-the-badge&logo=linkedin&logoColor=3C096C&labelColor=240046)](https://www.linkedin.com/in/kaykykruger/)
-[![GitHub](https://img.shields.io/badge/GitHub-kaykykrg-9D4EDD?style=for-the-badge&logo=github&logoColor=E0AAFF&labelColor=240046)](https://github.com/kaykykrg)
-[![Profile Views](https://komarev.com/ghpvc/?username=kaykykrg&label=Profile+Views&color=9D4EDD&style=for-the-badge)](https://github.com/kaykykrg)
+Engenharia de Software na **PUCPR** · **Curitiba, Brasil**
 
 </div>
 
----
+## Sobre
 
-<img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+Gosto de entender como as coisas funcionam e encontrar jeitos de torná-las mais simples. Estudo Engenharia de Software na PUCPR e trabalho como desenvolvedor full stack freelancer, transformando ideias e problemas do dia a dia em aplicações web.
 
+Aprendo colocando a mão no código, testando possibilidades e trocando ideias. Minha experiência com suporte de TI e atendimento ao público me ensinou a ouvir antes de propor uma solução. Gosto de acompanhar uma ideia sair do papel e virar algo que as pessoas possam usar, cuidando da interface e do que acontece por trás dela.
 
-```yaml
-name:       Kayky Quesada Kruger
-role:       Back-End Developer (buscando estagio)
-location:   Curitiba, Parana - Brasil
-education:  Engenharia de Software @ PUCPR
-            3o Periodo | Previsao: Mar/2029
-focus:      Backend · RESTful APIs · Cloud Deploy
-stack:      Java · Spring Boot · React · PostgreSQL
-languages:  PT Nativo | EN Intermediario | ES Basico
-```
+**Meu foco:** Java, ecossistema Spring, React, APIs REST e bancos de dados relacionais.
 
-Estudante proativo com **experiencia real em producao** — desenvolvi e mantenho uma aplicacao Full-Stack completa com JWT, Docker multi-stage e deploy em nuvem. Gosto de trabalho em equipe, metodologias ageis (Scrum) e resolver problemas complexos com solucoes elegantes.
+## Linguagens
 
-<br clear="right"/>
+![Java 21](https://img.shields.io/badge/Java%2021-416B66?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-416B66?style=flat-square&logo=javascript&logoColor=F5F0E5)
+![TypeScript](https://img.shields.io/badge/TypeScript-416B66?style=flat-square&logo=typescript&logoColor=F5F0E5)
+![Python](https://img.shields.io/badge/Python-416B66?style=flat-square&logo=python&logoColor=F5F0E5)
+![Kotlin](https://img.shields.io/badge/Kotlin-416B66?style=flat-square&logo=kotlin&logoColor=F5F0E5)
+![PHP](https://img.shields.io/badge/PHP-416B66?style=flat-square&logo=php&logoColor=F5F0E5)
 
----
+## Frameworks, bibliotecas e interfaces
 
-### Tecnologias & Ferramentas
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot%203-A3482C?style=flat-square&logo=springboot&logoColor=F5F0E5)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-A3482C?style=flat-square&logo=spring&logoColor=F5F0E5)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-A3482C?style=flat-square&logo=springsecurity&logoColor=F5F0E5)
+![React](https://img.shields.io/badge/React%2019-A3482C?style=flat-square&logo=react&logoColor=F5F0E5)
+![React Router](https://img.shields.io/badge/React%20Router-A3482C?style=flat-square&logo=reactrouter&logoColor=F5F0E5)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-A3482C?style=flat-square&logo=tailwindcss&logoColor=F5F0E5)
+![Vite](https://img.shields.io/badge/Vite-A3482C?style=flat-square&logo=vite&logoColor=F5F0E5)
+![HTML5](https://img.shields.io/badge/HTML5-A3482C?style=flat-square&logo=html5&logoColor=F5F0E5)
+![CSS3](https://img.shields.io/badge/CSS3-A3482C?style=flat-square)
 
-<div align="center">
+## Dados, segurança e entrega
 
-**Backend & APIs**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2A4343?style=flat-square&logo=postgresql&logoColor=F5F0E5)
+![MySQL](https://img.shields.io/badge/MySQL-2A4343?style=flat-square&logo=mysql&logoColor=F5F0E5)
+![H2](https://img.shields.io/badge/H2%20Database-2A4343?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-2A4343?style=flat-square&logo=supabase&logoColor=F5F0E5)
+![JWT](https://img.shields.io/badge/JWT-2A4343?style=flat-square&logo=jsonwebtokens&logoColor=F5F0E5)
+![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-2A4343?style=flat-square)
+![Git](https://img.shields.io/badge/Git-2A4343?style=flat-square&logo=git&logoColor=F5F0E5)
+![Docker](https://img.shields.io/badge/Docker-2A4343?style=flat-square&logo=docker&logoColor=F5F0E5)
+![Linux](https://img.shields.io/badge/Linux-2A4343?style=flat-square&logo=linux&logoColor=F5F0E5)
+![Render](https://img.shields.io/badge/Render-2A4343?style=flat-square&logo=render&logoColor=F5F0E5)
+![Vercel](https://img.shields.io/badge/Vercel-2A4343?style=flat-square&logo=vercel&logoColor=F5F0E5)
 
-![Java](https://img.shields.io/badge/Java%2021-E0AAFF?style=for-the-badge&logo=openjdk&logoColor=240046)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot%203-C77DFF?style=for-the-badge&logo=springboot&logoColor=240046)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-9D4EDD?style=for-the-badge&logo=springsecurity&logoColor=E0AAFF)
-![JWT](https://img.shields.io/badge/JWT%20Auth-7B2FBE?style=for-the-badge&logo=jsonwebtokens&logoColor=E0AAFF)
-![Python](https://img.shields.io/badge/Python-5A189A?style=for-the-badge&logo=python&logoColor=E0AAFF)
-![Kotlin](https://img.shields.io/badge/Kotlin-3C096C?style=for-the-badge&logo=kotlin&logoColor=E0AAFF)
+<details>
+<summary><b>Ferramentas de trabalho, modelagem e colaboração</b></summary>
 
-**Frontend**
+<br>
 
-![React](https://img.shields.io/badge/React%2019-00F5D4?style=for-the-badge&logo=react&logoColor=0D0D0D)
-![Vite](https://img.shields.io/badge/Vite-00C9A7?style=for-the-badge&logo=vite&logoColor=0D0D0D)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-00B4D8?style=for-the-badge&logo=tailwindcss&logoColor=0D0D0D)
-![JavaScript](https://img.shields.io/badge/JavaScript%20ES6+-0096C7?style=for-the-badge&logo=javascript&logoColor=0D0D0D)
-![HTML5](https://img.shields.io/badge/HTML5-023E8A?style=for-the-badge&logo=html5&logoColor=E0AAFF)
-![CSS3](https://img.shields.io/badge/CSS3-03045E?style=for-the-badge&logo=css3&logoColor=E0AAFF)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-416B66?style=flat-square&logo=intellijidea&logoColor=F5F0E5)
+![PyCharm](https://img.shields.io/badge/PyCharm-416B66?style=flat-square&logo=pycharm&logoColor=F5F0E5)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-416B66?style=flat-square&logo=mysql&logoColor=F5F0E5)
+![Figma](https://img.shields.io/badge/Figma-416B66?style=flat-square&logo=figma&logoColor=F5F0E5)
+![Astah](https://img.shields.io/badge/Astah-416B66?style=flat-square)
+![Draw.io](https://img.shields.io/badge/Draw.io-416B66?style=flat-square)
+![BPMN.io](https://img.shields.io/badge/BPMN.io-416B66?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-416B66?style=flat-square)
+![Antigravity](https://img.shields.io/badge/Antigravity-416B66?style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-416B66?style=flat-square&logo=jira&logoColor=F5F0E5)
+![Trello](https://img.shields.io/badge/Trello-416B66?style=flat-square&logo=trello&logoColor=F5F0E5)
+![Scrum](https://img.shields.io/badge/Scrum-416B66?style=flat-square)
 
-**Banco de Dados**
+</details>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFD60A?style=for-the-badge&logo=postgresql&logoColor=0D0D0D)
-![Supabase](https://img.shields.io/badge/Supabase-FFC300?style=for-the-badge&logo=supabase&logoColor=0D0D0D)
-![MySQL](https://img.shields.io/badge/MySQL-DAA520?style=for-the-badge&logo=mysql&logoColor=0D0D0D)
+## Experiência profissional
 
-**DevOps & Cloud**
+**Desenvolvedor Full Stack Freelancer · Cozinha Mariola**  
+2025–2026 · aplicação em produção
 
-![Docker](https://img.shields.io/badge/Docker-E0AAFF?style=for-the-badge&logo=docker&logoColor=240046)
-![Render](https://img.shields.io/badge/Render-C77DFF?style=for-the-badge&logo=render&logoColor=240046)
-![Vercel](https://img.shields.io/badge/Vercel-9D4EDD?style=for-the-badge&logo=vercel&logoColor=E0AAFF)
-![Git](https://img.shields.io/badge/Git-7B2FBE?style=for-the-badge&logo=git&logoColor=E0AAFF)
-![GitHub](https://img.shields.io/badge/GitHub-5A189A?style=for-the-badge&logo=github&logoColor=E0AAFF)
-![Linux](https://img.shields.io/badge/Linux-3C096C?style=for-the-badge&logo=linux&logoColor=E0AAFF)
+- Desenvolvimento do sistema de pedidos e gestão operacional, dos requisitos à entrega.
+- Java 21, Spring Boot 3, React e PostgreSQL; autenticação com Spring Security/JWT e limitação de requisições com Bucket4j.
+- Cardápio, pedidos, fidelidade, dashboards e integração com WhatsApp, com testes automatizados e Docker.
 
-**Ferramentas & Metodologias**
+[Conhecer a aplicação](https://cozinhamariola.vercel.app/)
 
-![Scrum](https://img.shields.io/badge/Scrum%20%2F%20Agile-00F5D4?style=for-the-badge&logo=scrumalliance&logoColor=0D0D0D)
-![Jira](https://img.shields.io/badge/Jira-00C9A7?style=for-the-badge&logo=jira&logoColor=0D0D0D)
-![Figma](https://img.shields.io/badge/Figma-00B4D8?style=for-the-badge&logo=figma&logoColor=0D0D0D)
-![Notion](https://img.shields.io/badge/Notion-0096C7?style=for-the-badge&logo=notion&logoColor=0D0D0D)
-![VSCode](https://img.shields.io/badge/VS%20Code-023E8A?style=for-the-badge&logo=visualstudiocode&logoColor=E0AAFF)
+**Desenvolvedor Full Stack Freelancer · Grupo LOCA / Loca Como Tu Madre**  
+Projeto remoto · João Pessoa, PB
 
-</div>
+- Desenvolvimento de MVP para digitalizar processos e acompanhar atividades operacionais.
+- Java, React, PostgreSQL/Supabase e JWT, com rotinas assíncronas para checklists, registros e imagens.
 
----
+**Outras experiências:** suporte de TI no Exército Brasileiro (mar.–nov. 2024) e atendimento ao público na SAKADA (nov. 2024–jan. 2025).
 
-### Projeto em Producao
+## Projetos em destaque
 
-<div align="center">
+### [Albion Flipper](https://github.com/kaykykrg/Flipper)
 
-> **Cozinha Mariola — Sistema de Pedidos Full-Stack** &nbsp;·&nbsp; *2025 · em producao*
+CLI em **Node.js e TypeScript** para analisar oportunidades entre mercados de Albion Online. Integra a Albion Data Project API, calcula taxas e margens, mantém histórico em SQLite e oferece comandos de consulta, monitoramento e exportação, com testes em Vitest.
 
-</div>
+### [Desafio Spacecom](https://github.com/kaykykrg/spacecom-trainee-tech-2027)
 
-Aplicacao web completa para gestao de pedidos, carrinho e administracao de cardapio — atualmente em producao com melhorias continuas.
+Detecção de encontros por geolocalização com **JavaScript e streaming**, sem dependências externas. A documentação da versão atual registra **21.530.020 registros auditados**, **118 encontros confirmados** e **45 testes offline**, usando Haversine e sweep por latitude.
 
-| Camada | Stack |
-|--------|-------|
-| **Backend** | Java 21 · Spring Boot 3 · Spring Security · JWT |
-| **Frontend** | React 19 · Vite · Tailwind CSS · React Router DOM |
-| **Banco de Dados** | PostgreSQL via Supabase |
-| **DevOps** | Docker multi-stage · Render (backend) · Vercel (frontend) |
+### [CampusTrack](https://github.com/luis-sandri/CampusTrack)
 
-- Autenticacao JWT com Admin Panel e CRUD em tempo real via Supabase
-- Dockerfile multi-stage para imagens Spring Boot otimizadas
-- Troubleshooting em nuvem: CORS, roteamento e variaveis de ambiente em producao
-- Redirecionamento dinamico para WhatsApp + comunicacao assincrona React e Spring Boot
-- link: https://cozinhamariola.vercel.app/ (provalmente ele estará fechado, pois não estará em horario de atendimento)
----
+Projeto universitário em equipe para navegação e gerenciamento do campus, com mapa interativo e eventos. Minha contribuição técnica destacada foi a **autenticação OAuth 2.0**, em um projeto com PHP, JavaScript, HTML/CSS e MySQL.
 
-### Projetos Academicos
+<details>
+<summary><b>Outros projetos e estudos</b></summary>
 
-**SPINERS — App para Pets** &nbsp;·&nbsp; Equipe multidisciplinar com Scrum (sprints, backlog, retrospectivas)
+- **PUCSports:** pesquisa com usuários, entrevistas, personas e prototipação com Figma e Excalidraw.
+- **Focinho Amigo:** modelagem de entidades e regras de negócio para adoção responsável, com laudos e rastreabilidade.
+- **SPINERS:** colaboração com Scrum, organização de backlog, sprints e documentação de um aplicativo para pets.
+- **lagre.io:** levantamento de requisitos e design web para uma plataforma de notas fiscais.
+- **[Daily Sparks](https://github.com/kaykykrg/Sparks-Daily-s):** estudo inicial de interfaces Android com Kotlin e Jetpack Compose.
 
-**Startup Iagre.io — Design Web para Plataforma de NFe** &nbsp;·&nbsp; Levantamento de requisitos com times de tech, design e negocio
+</details>
 
----
+## Formação e aprendizado
 
-### Experiencia
+**Engenharia de Software · PUCPR**  
+Conclusão prevista: novembro de 2028.
 
-**Exercito Brasileiro** — Auxiliar de TI &nbsp;`Mar/2024 - Nov/2024`  
-Manutencao de hardware/software, redes, suporte tecnico, controle de chamados com foco em SLA
+- **PUCPR:** desenvolvimento de sistemas e web, análise de requisitos e desenvolvimento colaborativo.
+- **Nublify / DIO:** bootcamp de desenvolvimento com IA e Cloud.
+- **DIO:** desenvolvimento back-end com Kotlin (52 horas) e AWS Cloud Foundation.
+- **Google / Coursera:** Fundamentos da Segurança Cibernética.
+- **Cisco:** Introdução à Cibersegurança.
 
-**SAKADA Restaurante** — Caixa Atendente &nbsp;`Nov/2024 - Jan/2025`  
-Atendimento ao publico, organizacao de estoque, controle de KPIs operacionais
+Também participei da monitoria de Raciocínio Algorítmico e do Centro Acadêmico de Engenharia de Software na PUCPR em 2025.
 
-**PUCPR** — Monitor de Raciocinio Algoritmico &nbsp;`2025`  
-Apoio a estudantes, elaboracao de materiais didaticos, acompanhamento de entregas academicas
+**Idiomas:** português nativo · inglês intermediário · espanhol básico.
 
-**PUCPR** — Centro Academico de Engenharia de Software &nbsp;`2025`  
-Representacao e iniciativas de organizacao estudantil
+## Vamos conversar?
 
----
+Me chama para trocar ideias sobre desenvolvimento, projetos e oportunidades.
 
-### GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://my-github-stats-frlb.vercel.app/api?username=kaykykrg&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=8&title_color=C77DFF&icon_color=9D4EDD&border_color=7B2FBE"/>
-<img height="180" src="https://nirzak-streak-stats.vercel.app/?user=kaykykrg&theme=tokyonight&hide_border=false&ring=C77DFF&fire=FFD60A&currStreakLabel=C77DFF&sideLabels=9D4EDD&border=7B2FBE"/>
-
-</div>
-
----
-
-### Certificacoes
-
-**Fundamentos de Cyberseguranca** — Coursera  
-**Desenvolvimento Backend com Kotlin** (52h) — DIO
+**[LinkedIn](https://www.linkedin.com/in/kaykykruger/)** · **[E-mail](mailto:kaykykruger234@gmail.com)**
 
 ---
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Vamos%20conversar-LinkedIn-E0AAFF?style=for-the-badge&logo=linkedin&logoColor=3C096C&labelColor=240046)](https://www.linkedin.com/in/kaykykruger/)
-[![Gmail](https://img.shields.io/badge/Me%20manda%20um%20email-Gmail-C77DFF?style=for-the-badge&logo=gmail&logoColor=3C096C&labelColor=240046)](mailto:kaykykruger234@gmail.com)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
-
+<img src="./assets/monograma.png" width="64" alt="Monograma KK em verde jade" />
+<br>
+<sub>Resolvendo problemas com soluções inteligentes.</sub>
 </div>
