@@ -108,61 +108,11 @@ Minha experiência com suporte de TI e atendimento ao público me ensinou a ouvi
 
 ---
 
-### Experiência em desenvolvimento
 
-**Desenvolvedor Full Stack Freelancer — Cozinha Mariola**  
-2025–2026 · aplicação em produção
 
-- Desenvolvimento de um sistema de pedidos e gestão operacional, dos requisitos à arquitetura, implementação e validação.
-- APIs REST com Java 21 e Spring Boot 3, interface React e persistência em PostgreSQL com Spring Data JPA.
-- Autenticação com Spring Security/JWT, limitação de requisições com Bucket4j, testes automatizados e Docker.
-- Cardápio, pedidos, fidelidade, dashboards e integração com WhatsApp.
+[Meu Portifolio](https://kaykykrgportfolio.vercel.app/)
 
-[Conhecer a aplicação](https://cozinhamariola.vercel.app/)
 
-**Desenvolvedor Full Stack Freelancer — Grupo LOCA / Loca Como Tu Madre**  
-Projeto remoto · João Pessoa, PB
-
-- Desenvolvimento de MVP para digitalizar processos e acompanhar atividades operacionais.
-- Java, React, PostgreSQL/Supabase e JWT, com rotinas assíncronas para checklists, registros e imagens.
-- Levantamento de requisitos, mapeamento de fluxos e validação de entradas.
-
----
-
-### Projetos em destaque
-
-**[Albion Flipper](https://github.com/kaykykrg/Flipper)** — CLI em Node.js e TypeScript para analisar oportunidades de mercado em Albion Online. Integração com API, cálculos de taxas e margem, histórico em SQLite, exportação CSV e testes com Vitest.
-
-**[Desafio Spacecom](https://github.com/kaykykrg/spacecom-trainee-tech-2027)** — Detecção de encontros por geolocalização com JavaScript, streaming, Haversine e sweep por latitude. A versão documentada registra 21.530.020 registros auditados, 118 encontros confirmados e 45 testes offline.
-
-**[CampusTrack](https://github.com/luis-sandri/CampusTrack)** — Projeto universitário em equipe para navegação e gerenciamento do campus, com mapa interativo e eventos. Minha contribuição técnica destacada foi a autenticação OAuth 2.0, em um projeto com PHP, JavaScript, HTML/CSS e MySQL.
-
-<details>
-<summary><b>Outros projetos e estudos</b></summary>
-
-- **SPINERS:** colaboração com Scrum, backlog, sprints e documentação de um aplicativo para pets.
-- **lagre.io:** levantamento de requisitos e design web para uma plataforma de notas fiscais.
-- **Focinho Amigo:** modelagem de entidades e regras para adoção responsável, com laudos e rastreabilidade.
-- **PUCSports:** pesquisa com usuários, personas e prototipação com Figma e Excalidraw.
-- **[Daily Sparks](https://github.com/kaykykrg/Sparks-Daily-s):** estudo inicial de Android com Kotlin e Jetpack Compose.
-
-</details>
-
----
-
-### Outras experiências
-
-**Exército Brasileiro — Auxiliar de TI** · mar.–nov. 2024  
-Suporte a usuários, manutenção de computadores e redes, diagnóstico de falhas e documentação.
-
-**SAKADA Restaurante — Caixa Atendente** · nov. 2024–jan. 2025  
-Atendimento ao público, organização de estoque e registros operacionais.
-
-**PUCPR — Monitoria de Raciocínio Algorítmico** · 2025  
-Apoio a estudantes em lógica de programação, resolução de exercícios e preparação de materiais.
-
-**PUCPR — Centro Acadêmico de Engenharia de Software** · 2025  
-Participação na representação estudantil e organização de iniciativas e eventos.
 
 ---
 
